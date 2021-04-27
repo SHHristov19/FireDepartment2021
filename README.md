@@ -23,10 +23,16 @@ Vasilen Mihaylov - [VMMihaylov19](https://github.com/VMMihaylov19) - Designer<br
 #### For the presentation click [here](https://codingburgas-my.sharepoint.com/:p:/g/personal/shhristov19_codingburgas_bg/EeQNSLCC2X5OjkgG3dsCj8oBXFbuqJK9oX4VNDOEuMed6A?e=vX9tom) 
 
 <br><br>
-
-# 👉Preview website
-If you want to view website cklick [here]()  
+# 👉Installation
+Open your CMD and paste this code:
+```bash
+1. cd \
+2. git clone https://github.com/SHHristov19/FireDepartment2021
+3. Open your C: and find the folder named: Website
+```
+ 
 
 <br><br>
 
 # 💻 Interface
+<img src="https://i.postimg.cc/1tDkyChg/Microsoft-Teams-image-6.png" align="center">
